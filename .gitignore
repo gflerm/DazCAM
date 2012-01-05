@@ -1,3 +1,4 @@
+*.exe
 *.pdb
 *.vcproj.*.user
 *.resharper.user
@@ -19,10 +20,6 @@
 *.mdb
 *.docstates
 Thumbs.db
-build.force
-obj
-/bin
-/Bin
-/bin2
-/tmp
-/tags
+obj/
+bin/
+
